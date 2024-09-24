@@ -9,20 +9,20 @@ import pandas as pd
 import dash_auth
 import dash_enterprise_auth as lol
 VALID_USERNAME_PASSWORD_PAIRS = {
-    'will': 'suge',
-    'mason': 'mcrae',
-    'tieran':'alexander',
-    'jackson':'dels',
-    'ethan':'rendon',
-    'luke':'warner',
-    'damon':'cawthorn',
-    'dylan':'sibbitt',
-    'Kyle':'Boddy',
-    'kyle':'boddy',
-    'Keith' :'Law',
-    'keith':'law',
-    'Dylan':'Sibbitt',
-    'brian':'recca'
+    'will': 'X',
+    'mason': 'X',
+    'tieran':'X',
+    'jackson':'X',
+    'ethan':'X',
+    'luke':'X',
+    'damon':'X',
+    'dylan':'X',
+    'Kyle':'X',
+    'kyle':'X',
+    'Keith' :'X',
+    'keith':'X',
+    'Dylan':'X',
+    'brian':'X'
 }
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 csv_files_path = os.path.join('tm2.csv')
